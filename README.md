@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**bailarohit55/bailarohit55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and dedicated developer with a wide array of skills and interests. I love solving problems, learning new technologies, and bringing ideas to life with code.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud Computing:** Proficient in Azure and Node.js.
+- **Programming Languages:** Skilled in JavaScript, and Python.
+- **Databases:** Experience with PostgreSQL and MongoDB.
+- **APIs:** Knowledgeable in creating and using REST APIs.
+- **Version Control:** Proficient in Git.
+- **Methodologies:** Practiced in Scrum/Agile methodologies.
+- **Problem Solving:** Strong problem-solving skills.
+- **AI Tools:** Experience with AI-Assisted Productivity Tools.
+
+## 🎨 Interests
+
+When I'm not coding, you can find me:
+
+- **Cooking:** Experimenting with new recipes in the kitchen.
+- **Reading:** Diving into a good book.
+- **Solving Puzzles:** Specifically, the Rubik's Cube.
+- **Creating Art:** Enjoying various arts and crafts projects.
+
+## 🌱 Goals
+
+I'm constantly striving to learn new things and improve my skills. I believe in the power of programming to transform and improve the lives of people around the world.
+
+Feel free to reach out to me for collaboration, questions, or just a chat!
