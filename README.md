@@ -13,16 +13,22 @@ I'm a passionate and dedicated developer with a wide array of skills and interes
 - **Problem Solving:** Strong problem-solving skills.
 - **AI Tools:** Experience with AI-Assisted Productivity Tools.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,nodejs,js,py,postgres,mongodb,git,ai" />
+  </a>
+</p>
+
 ## 🎨 Interests
 
 When I'm not coding, you can find me:
 
-- **Cooking:** Experimenting with new recipes in the kitchen.
-- **Reading:** Diving into a good book.
-- **Solving Puzzles:** Specifically, the Rubik's Cube.
-- **Creating Art:** Enjoying various arts and crafts projects.
+- **Cooking:** 👨‍🍳 Experimenting with new recipes in the kitchen.
+- **Reading:** 📖 Diving into a good book.
+- **Solving Puzzles:** 🧩 Specifically, the Rubik's Cube.
+- **Creating Art:** 🎨 Enjoying various arts and crafts projects.
 
-## 🌱 Goals
+## 🎯 Goals
 
 I'm constantly striving to learn new things and improve my skills. I believe in the power of programming to transform and improve the lives of people around the world.
 
