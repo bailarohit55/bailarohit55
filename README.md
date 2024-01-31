@@ -15,7 +15,7 @@ I'm a passionate and dedicated developer with a wide array of skills and interes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,nodejs,js,py,postgres,mongodb,git,ai" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,nodejs,js,py,postgres,mongodb,git,ai" />
   </a>
 </p>
 
